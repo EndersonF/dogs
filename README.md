@@ -68,7 +68,7 @@ $ npm start
 
 ## :memo: License
 
-O projeto presente está sob licença do MIT. Você pode consultar em [LICENSE!](https://github.com/EndersonF/animais-fantasticos/blob/main/LICENSE)
+O projeto presente está sob licença do MIT. Você pode consultar em [LICENSE!](https://github.com/EndersonF/dogs/blob/main/LICENSE)
 
 Feito com :heart: por <a href="https://github.com/endersonf" target="_blank">Enderson</a>
 
