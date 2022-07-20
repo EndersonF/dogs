@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+  <img src="./src/Assets/two-dogs.jpg" alt="dogs" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+&#xa0;
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+<h1 align="center">🔗 Animais Fantásticos
 
-### `npm start`
+<p align="center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+![GitHub repo size](https://img.shields.io/github/repo-size/EndersonF/animais-fantasticos)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</p>
+</h1>
 
-### `npm test`
+ <h4 align="center"> 
+	🦁 Projeto Animais Fantásticos 🦉
+</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<hr>
 
-### `npm run build`
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#warning-Requisitos">Pré-Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/endersonf" target="_blank">Author</a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :dart: Sobre
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Projeto final do curso de JavaScript Origamid.
 
-### `npm run eject`
+## :rocket: Tecnologias
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+As seguintes ferramentas foram usadas na construção do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [JavaScript](https://www.javascript.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## :warning: Pré-requisitos
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Learn More
+## :checkered_flag: Iniciando
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone este repositório
+$ git clone <https://github.com/EndersonF/animais-fantasticos>
+# Acesse a pasta do projeto no terminal/cmd
+$ cd animais-fantasticos
+# Instalar dependências
+$ yarn
+# Execute o projeto
+$ yarn start ou dev
+# O servidor será inicializado no <http://localhost:3000>
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :memo: License
 
-### Code Splitting
+O projeto presente está sob licença do MIT. Você pode consultar em [LICENSE!](https://github.com/EndersonF/animais-fantasticos/blob/main/LICENSE)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feito com :heart: por <a href="https://github.com/endersonf" target="_blank">Enderson</a>
 
-### Analyzing the Bundle Size
+&#xa0;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Voltar ao topo</a>
