@@ -5,20 +5,19 @@
 
 </div>
 
-<h1 align="center">🔗 Animais Fantásticos
+<h1 align="center">🐶 Dogs - A rede social do seu melhor amigo.
 
 <p align="center">
 
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/EndersonF/animais-fantasticos)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
 </h1>
 
  <h4 align="center"> 
-	🦁 Projeto Animais Fantásticos 🦉
+	🐕‍🦺 Projeto Dogs 🦮
 </h4>
 
 <hr>
@@ -36,13 +35,14 @@
 
 ## :dart: Sobre
 
-Projeto final do curso de JavaScript Origamid.
+Projeto final do curso de React Origamid.
 
 ## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [JavaScript](https://www.javascript.com/)
+- [React](https://pt-br.reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -56,13 +56,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/EndersonF/animais-fantasticos>
+$ git clone <https://github.com/EndersonF/dogs
 # Acesse a pasta do projeto no terminal/cmd
-$ cd animais-fantasticos
+$ cd dogs
 # Instalar dependências
-$ yarn
+$ npm
 # Execute o projeto
-$ yarn start ou dev
+$ npm start
 # O servidor será inicializado no <http://localhost:3000>
 ```
 
